@@ -4,7 +4,7 @@
 $(document).ready(function() {
 	initializePage();
 })
-
+$(".friends").click(listenerFunction);
 /*
  * Function that is called when the document is ready.
  */
